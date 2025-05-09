@@ -1,0 +1,505 @@
+Top 3 Highest Age:
+  Łukasz Fabiański: 40
+  Ashley Young: 39
+  James Milner: 39
+Top 3 Lowest Age:
+  Mikey Moore: 17
+  Chidozie Obi-Martin: 17
+  Ayden Heaven: 18
+
+Top 3 Highest Matches Played:
+  Virgil van Dijk: 35
+  Tyrick Mitchell: 35
+  Mohamed Salah: 35
+Top 3 Lowest Matches Played:
+  Ayden Heaven: 2
+  Tyler Fredricson: 2
+  Neto: 2
+
+Top 3 Highest Starts:
+  Virgil van Dijk: 35
+  Tyrick Mitchell: 35
+  Milos Kerkez: 35
+Top 3 Lowest Starts:
+  Antony: 0
+  Ali Al Hamadi: 0
+  Toby Collyer: 0
+
+Top 3 Highest Minutes:
+  Virgil van Dijk: 3150.0
+  Nathan Collins: 3150.0
+  Dean Henderson: 3150.0
+Top 3 Lowest Minutes:
+  Ayden Heaven: 95.0
+  Jahmai Simpson-Pusey: 96.0
+  Emi Buendía: 98.0
+
+Top 3 Highest Goals:
+  Mohamed Salah: 28
+  Alexander Isak: 23
+  Erling Haaland: 21
+Top 3 Lowest Goals:
+  Aaron Cresswell: 0
+  Aaron Ramsdale: 0
+  Victor Lindelöf: 0
+
+Top 3 Highest Assists:
+  Mohamed Salah: 18
+  Jacob Murphy: 11
+  Mikkel Damsgaard: 10
+Top 3 Lowest Assists:
+  Aaron Cresswell: 0
+  Aaron Ramsdale: 0
+  Ali Al Hamadi: 0
+
+Top 3 Highest Yellow Cards:
+  Saša Lukić: 12
+  Morgan Gibbs-White: 11
+  Will Hughes: 11
+Top 3 Lowest Yellow Cards:
+  Wataru Endo: 0
+  Antonín Kinský: 0
+  Antony: 0
+
+Top 3 Highest Red Cards:
+  Jack Stephens: 2
+  Bruno Fernandes: 2
+  Myles Lewis-Skelly: 2
+Top 3 Lowest Red Cards:
+  İlkay Gündoğan: 0
+  Wataru Endo: 0
+  William Smallbone: 0
+
+Top 3 Highest xG:
+  Mohamed Salah: 24.0
+  Erling Haaland: 20.8
+  Alexander Isak: 19.9
+Top 3 Lowest xG:
+  Aaron Ramsdale: 0.0
+  Woyo Coulibaly: 0.0
+  Łukasz Fabiański: 0.0
+
+Top 3 Highest xAG:
+  Mohamed Salah: 13.2
+  Cole Palmer: 10.0
+  Son Heung-min: 8.2
+Top 3 Lowest xAG:
+  Łukasz Fabiański: 0.0
+  Aaron Ramsdale: 0.0
+  Welington: 0.0
+
+Top 3 Highest PrgC:
+  Jeremy Doku: 189
+  Mohamed Salah: 143
+  Noni Madueke: 142
+Top 3 Lowest PrgC:
+  Armel Bella Kotchap: 0
+  Bart Verbruggen: 0
+  Bernd Leno: 0
+
+Top 3 Highest PrgP:
+  Bruno Fernandes: 281
+  Joško Gvardiol: 251
+  Bruno Guimarães: 247
+Top 3 Lowest PrgP:
+  Aaron Ramsdale: 0
+  Alisson: 0
+  Altay Bayındır: 0
+
+Top 3 Highest PrgR:
+  Mohamed Salah: 440
+  Bryan Mbeumo: 319
+  Alejandro Garnacho: 281
+Top 3 Lowest PrgR:
+  Aaron Ramsdale: 0
+  Nathan Wood-Gordon: 0
+  Arijanet Muric: 0
+
+Top 3 Highest Gls per 90:
+  Jáder Durán: 0.99
+  Donyell Malen: 0.92
+  James Mcatee: 0.89
+Top 3 Lowest Gls per 90:
+  Yehor Yarmoliuk: 0.0
+  Woyo Coulibaly: 0.0
+  Ben Brereton: 0.0
+
+Top 3 Highest Ast per 90:
+  Tyrique George: 0.87
+  Danny Ings: 0.63
+  Bukayo Saka: 0.58
+Top 3 Lowest Ast per 90:
+  Yehor Yarmoliuk: 0.0
+  Wout Faes: 0.0
+  Wilson Odobert: 0.0
+
+Top 3 Highest xG per 90:
+  James Mcatee: 0.83
+  Erling Haaland: 0.76
+  Danny Ings: 0.72
+Top 3 Lowest xG per 90:
+  Aaron Ramsdale: 0.0
+  Wataru Endo: 0.0
+  Adam Webster: 0.0
+
+Top 3 Highest xAG per 90:
+  Tyrique George: 0.63
+  Mykhailo Mudryk: 0.58
+  Philip Billing: 0.54
+Top 3 Lowest xAG per 90:
+  Arijanet Muric: 0.0
+  Armel Bella Kotchap: 0.0
+  Renato Veiga: 0.0
+
+Top 3 Highest SoT/90:
+  Donyell Malen: 2.76
+  Luis Sinisterra: 2.29
+  Jáder Durán: 2.12
+Top 3 Lowest SoT/90:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Łukasz Fabiański: 0.0
+
+Top 3 Highest Passes Completed:
+  Virgil van Dijk: 2543
+  Joško Gvardiol: 2321
+  William Saliba: 2320
+Top 3 Lowest Passes Completed:
+  William Osula: 11
+  Albert Grønbaek: 13
+  Odsonne Édouard: 17
+
+Top 3 Highest TkI:
+  Idrissa Gana Gueye: 124
+  Daniel Muñoz: 113
+  João Gomes: 105
+Top 3 Lowest TkI:
+  Aaron Ramsdale: 0
+  Arijanet Muric: 0
+  Altay Bayındır: 0
+
+Top 3 Highest TkIW:
+  Daniel Muñoz: 74
+  Idrissa Gana Gueye: 74
+  Moisés Caicedo: 64
+Top 3 Lowest TkIW:
+  Aaron Ramsdale: 0
+  Ali Al Hamadi: 0
+  Alisson: 0
+
+Top 3 Highest Att Challenges:
+  Alexis Mac Allister: 104
+  Trent Alexander-Arnold: 103
+  João Gomes: 102
+Top 3 Lowest Att Challenges:
+  Armando Broja: 0
+  Danny Ward: 0
+  Caoimhín Kelleher: 0
+
+Top 3 Highest Lost Challenges:
+  João Gomes: 60
+  Elliot Anderson: 57
+  Trent Alexander-Arnold: 55
+Top 3 Lowest Lost Challenges:
+  Armando Broja: 0
+  Antonín Kinský: 0
+  Ben Mee: 0
+
+Top 3 Highest Blocks:
+  Nathan Collins: 71
+  Murillo: 67
+  Tyrick Mitchell: 62
+Top 3 Lowest Blocks:
+  Aaron Ramsdale: 0
+  Ali Al Hamadi: 0
+  Alisson: 0
+
+Top 3 Highest Sh Blocks:
+  Nathan Collins: 51
+  Dara O'Shea: 47
+  Murillo: 44
+Top 3 Lowest Sh Blocks:
+  İlkay Gündoğan: 0
+  Aaron Ramsdale: 0
+  Yankuba Minteh: 0
+
+Top 3 Highest Pass Blocks:
+  Alexis Mac Allister: 55
+  Antoine Semenyo: 51
+  Tyrick Mitchell: 50
+Top 3 Lowest Pass Blocks:
+  William Osula: 0
+  Armel Bella Kotchap: 0
+  Arijanet Muric: 0
+
+Top 3 Highest Int:
+  Aaron Wan-Bissaka: 60
+  Ryan Gravenberch: 57
+  Antonee Robinson: 57
+Top 3 Lowest Int:
+  Arijanet Muric: 0
+  Antonín Kinský: 0
+  Michail Antonio: 0
+
+Top 3 Highest Touches:
+  Virgil van Dijk: 3125
+  Joško Gvardiol: 2903
+  Levi Colwill: 2728
+Top 3 Lowest Touches:
+  Albert Grønbaek: 38
+  William Osula: 41
+  Chidozie Obi-Martin: 44
+
+Top 3 Highest Def Pen Touches:
+  Mark Flekken: 1338
+  Bernd Leno: 1097
+  Bart Verbruggen: 1034
+Top 3 Lowest Def Pen Touches:
+  Emi Buendía: 0
+  Willian: 1
+  Mikey Moore: 1
+
+Top 3 Highest Def 3rd Touches:
+  Mark Flekken: 1660
+  Jordan Pickford: 1494
+  Bernd Leno: 1354
+Top 3 Lowest Def 3rd Touches:
+  William Osula: 2
+  Odsonne Édouard: 4
+  Callum Wilson: 5
+
+Top 3 Highest Mid 3rd Touches:
+  Virgil van Dijk: 1719
+  William Saliba: 1519
+  Joško Gvardiol: 1474
+Top 3 Lowest Mid 3rd Touches:
+  Neto: 0
+  Fraser Forster: 0
+  Danny Ward: 0
+
+Top 3 Highest Att 3rd Touches:
+  Mohamed Salah: 1023
+  Bryan Mbeumo: 913
+  Bruno Fernandes: 888
+Top 3 Lowest Att 3rd Touches:
+  Aaron Ramsdale: 0
+  Alisson: 0
+  Altay Bayındır: 0
+
+Top 3 Highest Att Pen Touches:
+  Mohamed Salah: 327
+  Alexander Isak: 178
+  Antoine Semenyo: 176
+Top 3 Lowest Att Pen Touches:
+  Arijanet Muric: 0
+  Alphonse Areola: 0
+  Alisson: 0
+
+Top 3 Highest Att Take-Ons:
+  Mohammed Kudus: 194
+  Jeremy Doku: 185
+  Morgan Rogers: 153
+Top 3 Lowest Att Take-Ons:
+  Victor Lindelöf: 0
+  Yerson Mosquera: 0
+  Alex Palmer: 0
+
+Top 3 Highest Carries:
+  Joško Gvardiol: 1886
+  Virgil van Dijk: 1746
+  William Saliba: 1675
+Top 3 Lowest Carries:
+  Harry Toffolo: 17
+  Albert Grønbaek: 18
+  Chidozie Obi-Martin: 22
+
+Top 3 Highest ProDist:
+  Jan Paul van Hecke: 6740
+  Joško Gvardiol: 5715
+  Rúben Dias: 5295
+Top 3 Lowest ProDist:
+  Albert Grønbaek: 15
+  Harry Toffolo: 23
+  Massimo Luongo: 25
+
+Top 3 Highest ProgC Carries:
+  Jeremy Doku: 189
+  Mohamed Salah: 143
+  Noni Madueke: 142
+Top 3 Lowest ProgC Carries:
+  Armel Bella Kotchap: 0
+  Bart Verbruggen: 0
+  Bernd Leno: 0
+
+Top 3 Highest 1/3 Carries:
+  Alex Iwobi: 102
+  Joško Gvardiol: 92
+  Matheus Cunha: 88
+Top 3 Lowest 1/3 Carries:
+  Aaron Ramsdale: 0
+  Alisson: 0
+  Antonín Kinský: 0
+
+Top 3 Highest CPA:
+  Mohamed Salah: 115
+  Jeremy Doku: 90
+  Noni Madueke: 87
+Top 3 Lowest CPA:
+  Aaron Cresswell: 0
+  Łukasz Fabiański: 0
+  Yves Bissouma: 0
+
+Top 3 Highest Mis:
+  Mohamed Salah: 109
+  Morgan Rogers: 104
+  Liam Delap: 99
+Top 3 Lowest Mis:
+  Łukasz Fabiański: 0
+  Robin Olsen: 0
+  Robert Sánchez: 0
+
+Top 3 Highest Dis:
+  Mohammed Kudus: 89
+  Bruno Guimarães: 73
+  Dejan Kulusevski: 73
+Top 3 Lowest Dis:
+  Aaron Cresswell: 0
+  Aaron Ramsdale: 0
+  Łukasz Fabiański: 0
+
+Top 3 Highest Rec:
+  Virgil van Dijk: 2153
+  Joško Gvardiol: 2132
+  William Saliba: 2056
+Top 3 Lowest Rec:
+  Albert Grønbaek: 21
+  Odsonne Édouard: 26
+  William Osula: 27
+
+Top 3 Highest PrgR Receiving:
+  Mohamed Salah: 440
+  Bryan Mbeumo: 319
+  Alejandro Garnacho: 281
+Top 3 Lowest PrgR Receiving:
+  Aaron Ramsdale: 0
+  Nathan Wood-Gordon: 0
+  Arijanet Muric: 0
+
+Top 3 Highest Fls:
+  Liam Delap: 67
+  João Gomes: 67
+  Antoine Semenyo: 66
+Top 3 Lowest Fls:
+  Alisson: 0
+  Albert Grønbaek: 0
+  Bart Verbruggen: 0
+
+Top 3 Highest Fld:
+  Bruno Guimarães: 100
+  Matheus Cunha: 69
+  John McGinn: 67
+Top 3 Lowest Fld:
+  Ben Mee: 0
+  Ben Godfrey: 0
+  Alphonse Areola: 0
+
+Top 3 Highest Off:
+  Dominic Calvert-Lewin: 27
+  Chris Wood: 26
+  Jamie Vardy: 25
+Top 3 Lowest Off:
+  Aaron Cresswell: 0
+  İlkay Gündoğan: 0
+  Willy Boly: 0
+
+Top 3 Highest Crs:
+  Pedro Porro: 191
+  Bryan Mbeumo: 182
+  Bruno Fernandes: 172
+Top 3 Lowest Crs:
+  Aaron Ramsdale: 0
+  Ali Al Hamadi: 0
+  Arijanet Muric: 0
+
+Top 3 Highest Recov:
+  Moisés Caicedo: 203
+  Elliot Anderson: 197
+  Bruno Fernandes: 192
+Top 3 Lowest Recov:
+  Altay Bayındır: 0
+  Fraser Forster: 1
+  Hákon Rafn Valdimarsson: 1
+
+Top 3 Highest Aerial Won:
+  Dan Burn: 134
+  Nathan Collins: 112
+  Virgil van Dijk: 111
+Top 3 Lowest Aerial Won:
+  Kosta Nedeljković: 0
+  Billy Gilmour: 0
+  Danny Ward: 0
+
+Top 3 Highest Aerial Lost:
+  Chris Wood: 129
+  Jean-Philippe Mateta: 99
+  Jørgen Strand Larsen: 96
+Top 3 Lowest Aerial Lost:
+  Aaron Ramsdale: 0
+  Alisson: 0
+  Antonín Kinský: 0
+
+
+Team with Highest Average Score for Each Statistic:
+Age: Fulham (28.60)
+Matches Played: Nott'ham Forest (25.24)
+Starts: Brentford (18.33)
+Minutes: Liverpool (1643.10)
+Goals: Liverpool (3.81)
+Assists: Liverpool (2.86)
+Yellow Cards: Chelsea (3.88)
+Red Cards: Arsenal (0.23)
+xG: Liverpool (3.68)
+xAG: Liverpool (2.68)
+PrgC: Manchester City (41.64)
+PrgP: Liverpool (83.95)
+PrgR: Liverpool (83.05)
+Gls per 90: Manchester City (0.18)
+Ast per 90: Liverpool (0.14)
+xG per 90: Liverpool (0.18)
+xAG per 90: Chelsea (0.16)
+SoT/90: Bournemouth (0.54)
+Passes Completed: Liverpool (807.14)
+TkI: Crystal Palace (33.14)
+TkIW: Crystal Palace (19.62)
+Att Challenges: Liverpool (28.95)
+Lost Challenges: Nott'ham Forest (14.33)
+Blocks: Brentford (21.19)
+Sh Blocks: Brentford (8.71)
+Pass Blocks: Crystal Palace (14.90)
+Int: Bournemouth (14.39)
+Touches: Liverpool (1139.43)
+Def Pen Touches: Brentford (145.57)
+Def 3rd Touches: Brentford (366.48)
+Mid 3rd Touches: Liverpool (513.48)
+Att 3rd Touches: Manchester City (353.40)
+Att Pen Touches: Liverpool (57.38)
+Att Take-Ons: Arsenal (30.59)
+Carries: Manchester City (664.68)
+ProDist: Manchester City (2051.96)
+ProgC Carries: Manchester City (41.64)
+1/3 Carries: Manchester City (31.16)
+CPA: Manchester City (14.48)
+Mis: Nott'ham Forest (24.67)
+Dis: Newcastle Utd (17.96)
+Rec: Liverpool (798.24)
+PrgR Receiving: Liverpool (83.05)
+Fls: Bournemouth (20.52)
+Fld: Newcastle Utd (18.22)
+Off: Nott'ham Forest (3.95)
+Crs: Fulham (40.05)
+Recov: Bournemouth (73.22)
+Aerial Won: Brentford (27.52)
+Aerial Lost: Crystal Palace (28.19)
+
+Performance Analysis:
+The team Liverpool is likely performing the best in the 2024-2025 Premier League season, as it has the highest average score in 16 statistics, more than any other team.
